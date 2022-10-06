@@ -1,3 +1,5 @@
+# Go To Better Alarm File , This one is old and not updated and has many bugs
+# Link to Better Alarm File(https://github.com/ofcoursenp/Python-projects-Completed/blob/main/count%20down%20alarm/BetterAlarm.py)
 import time
 import pyautogui as pg
 from playsound import playsound
